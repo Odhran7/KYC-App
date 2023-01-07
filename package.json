@@ -1,0 +1,19 @@
+{
+  "name": "kyc-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "emailable": "^3.0.3",
+    "express": "^4.18.2",
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.20",
+    "swot-node": "^2.0.696"
+  }
+}
