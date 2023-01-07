@@ -1,1 +1,1 @@
-# KYC-App This is an app designed to be used as a functional feasibility check of the KYC prcoess for the minting of an NFT to verify someone is indeed a student. Uses Express.js, nodemon, swot-node and emailable (test api key) to simulate the functionality
+# KYC-App This is an app designed to be used as a functional feasibility check of the KYC process for the minting of an NFT to verify if someone is indeed a student. Uses Express.js, nodemon, swot-node and emailable (test api key) to simulate the functionality
